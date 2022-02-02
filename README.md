@@ -19,4 +19,4 @@ Comments Highlighter 2.4.1 is required.
 
 Tested on Windows.
 
-> If you know how to do PHPStorm plugin then go ahead and use this repo try to finally make the first proper one because current ones are not even close to be called "VS Code plugin".
+> If you know how to make PHPStorm plugin then go ahead and use this repo and try to finally make the first proper one because current ones are not even close to be called "VS Code plugin".
